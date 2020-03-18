@@ -14,3 +14,11 @@ git status
 git push
 
 git pull
+
+Merge conflicts
+
+git log ( all commit ) git reset --hard "ID Commit " or origin/master
+
+
+
+
